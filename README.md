@@ -1,0 +1,2 @@
+# EFG-IDS-A-Scalable-Federated-Graph-Neural-Network-Framework
+EFG‑IDS: A Scalable Federated Graph Neural Network Framework with Temporal Imputation for IoT Intrusion Detection  This repository hosts the implementation of EFG‑IDS, a federated learning framework designed to strengthen intrusion detection in Internet of Things (IoT) environments. By combining graph neural networks with temporal imputation.
